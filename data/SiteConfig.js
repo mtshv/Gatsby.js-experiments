@@ -3,13 +3,13 @@ module.exports = {
   siteTitle: "Gatsby Advanced Starter", // Site title.
   siteTitleAlt: "GatsbyJS Advanced Starter", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://mtshv.com", // Domain of your website without pathPrefix.
-  pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
+  siteUrl: "https://vagr9k.github.io", // Domain of your website without pathPrefix.
+  pathPrefix: "/gatsby-advanced-starter", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "A GatsbyJS stater with Advanced design in mind.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
-  googleAnalyticsID: "UA-119763678-1", // GA tracking ID.
-  disqusShortname: "", // Disqus shortname.
+  googleAnalyticsID: "UA-47311644-5", // GA tracking ID.
+  disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // Disqus shortname.
   postDefaultCategoryID: "Tech", // Default category for posts.
   userName: "Advanced User", // Username to display in the author segment.
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
@@ -21,21 +21,21 @@ module.exports = {
   userLinks: [
     {
       label: "GitHub",
-      url: "https://github.com/mtshv",
+      url: "https://github.com/Vagr9K/gatsby-advanced-starter",
       iconClassName: "fa fa-github"
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/mityushev",
+      url: "https://twitter.com/Vagr9K",
       iconClassName: "fa fa-twitter"
     },
     {
       label: "Email",
-      url: "",
+      url: "mailto:vagr9k@gmail.com",
       iconClassName: "fa fa-envelope"
     }
   ],
-  copyright: "Copyright © 2018. Advanced User", // Copyright string for the footer of the website and RSS feed.
+  copyright: "Copyright © 2017. Advanced User", // Copyright string for the footer of the website and RSS feed.
   themeColor: "#c62828", // Used for setting manifest and progress theme colors.
   backgroundColor: "#e0e0e0" // Used for setting manifest background color.
 };
